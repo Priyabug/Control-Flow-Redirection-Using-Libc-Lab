@@ -1,4 +1,4 @@
-# 🧨 Return-to-libc Attack Lab
+# 🧨 Control Flow Redirection Using Libc Lab
 
 > A deep dive into bypassing non-executable stack protections using Return-to-libc attacks.  
 > 🔐 Learn how attackers leverage system libraries instead of injecting shellcode.
